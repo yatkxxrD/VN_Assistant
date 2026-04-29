@@ -1,0 +1,13 @@
+{
+    "project_name": "MyAutoGalgame",
+    "ai_settings": {
+        "llm_provider": "openai",
+        "image_gen": "stable-diffusion-api",
+        "voice_gen": "gpt-sovits"
+    },
+    "asset_paths": {
+        "characters": "game/images/characters",
+        "backgrounds": "game/images/bg",
+        "voice": "game/audio/voice"
+    }
+}
